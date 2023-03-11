@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emmanuel Martins\\Source\\Repos\\EmmanuelMartins21\\BibliotecaCsharp\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\Users\\Emmanuel Martins\\source\\repos\\EmmanuelMartins21\\BibliotecaCsharp\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emmanuel Martins\\Source\\Repos\\EmmanuelMartins21\\BibliotecaCsharp\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\Emmanuel Martins\\source\\repos\\EmmanuelMartins21\\BibliotecaCsharp\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emmanuel Martins\\Source\\Repos\\EmmanuelMartins21\\BibliotecaCsharp\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\Emmanuel Martins\\source\\repos\\EmmanuelMartins21\\BibliotecaCsharp\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\Emmanuel Martins\\Source\\Repos\\EmmanuelMartins21\\BibliotecaCsharp\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\Users\\Emmanuel Martins\\source\\repos\\EmmanuelMartins21\\BibliotecaCsharp\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\Emmanuel Martins\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emmanuel Martins\\Source\\Repos\\EmmanuelMartins21\\BibliotecaCsharp\\Biblioteca\\obj\\",
+        "outputPath": "C:\\Users\\Emmanuel Martins\\source\\repos\\EmmanuelMartins21\\BibliotecaCsharp\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Emmanuel Martins\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

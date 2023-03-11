@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Biblioteca",
+    "\\Biblioteca\\Models"
   ],
-  "SelectedNode": "\\Biblioteca.sln",
+  "SelectedNode": "\\Biblioteca\\Models\\Pessoa.cs",
   "PreviewInSolutionExplorer": false
 }
