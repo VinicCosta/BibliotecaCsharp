@@ -16,8 +16,6 @@ namespace Biblioteca.Models
         private string Senha { get; set; }
         string Telefone { get; set; }
 
-
-
         public Pessoa()
         {
         }
