@@ -14,18 +14,25 @@ namespace Biblioteca.Services
 {
     public class Controller
     {
-        public bool ValidarEmail(string email)
+        private bool ValidarEmail(string email)
         {
             // Cria a expressao regular de validacao
             string regexEmail = @"^[^@\s]+@[^@\s]+\.[^@\s]+$";
             return Regex.IsMatch(email, regexEmail, RegexOptions.IgnoreCase); 
         }
 
-        public bool ValidarCPF(string cpf)
+        private bool ValidarCPF(string cpf)
         {
             // Cria a expressao regular de validacao
             string regexCPF = @"^\d{3}\.?\d{3}\.?\d{3}\-?\d{2}$";
             return Regex.IsMatch(cpf, regexCPF, RegexOptions.IgnoreCase);
+        }
+
+        private bool ValidarSenha(string senha)
+        {
+            // Cria a expressao regular de validacao
+            string regexCPF = @"^(?=.*[@#$%^&+çÇ=])(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,10}$";
+            return Regex.IsMatch(senha, regexCPF, RegexOptions.IgnoreCase);
         }
 
         public void Cancelar()
