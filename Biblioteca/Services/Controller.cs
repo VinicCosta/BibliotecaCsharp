@@ -31,7 +31,7 @@ namespace Biblioteca.Services
         private bool ValidarSenha(string senha)
         {
             // Cria a expressao regular de validacao
-            string regexCPF = @"^(?=.*[@#$%^&+=])(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,10}$";
+            string regexCPF = @"^(?=.*[@#$%^&+çÇ=])(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,10}$";
             return Regex.IsMatch(senha, regexCPF, RegexOptions.IgnoreCase);
         }
 
