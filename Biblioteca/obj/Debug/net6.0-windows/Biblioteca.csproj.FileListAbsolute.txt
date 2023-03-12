@@ -15,3 +15,10 @@ C:\Users\Emmanuel Martins\Source\Repos\EmmanuelMartins21\BibliotecaCsharp\Biblio
 C:\Users\Emmanuel Martins\Source\Repos\EmmanuelMartins21\BibliotecaCsharp\Biblioteca\obj\Debug\net6.0-windows\Biblioteca.pdb
 C:\Users\Emmanuel Martins\Source\Repos\EmmanuelMartins21\BibliotecaCsharp\Biblioteca\obj\Debug\net6.0-windows\Biblioteca.genruntimeconfig.cache
 C:\Users\Emmanuel Martins\Source\Repos\EmmanuelMartins21\BibliotecaCsharp\Biblioteca\obj\Debug\net6.0-windows\ref\Biblioteca.dll
+C:\Users\Emmanuel Martins\source\repos\EmmanuelMartins21\BibliotecaCsharp\Biblioteca\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Emmanuel Martins\source\repos\EmmanuelMartins21\BibliotecaCsharp\Biblioteca\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Emmanuel Martins\source\repos\EmmanuelMartins21\BibliotecaCsharp\Biblioteca\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Emmanuel Martins\source\repos\EmmanuelMartins21\BibliotecaCsharp\Biblioteca\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Emmanuel Martins\source\repos\EmmanuelMartins21\BibliotecaCsharp\Biblioteca\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Emmanuel Martins\source\repos\EmmanuelMartins21\BibliotecaCsharp\Biblioteca\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Emmanuel Martins\source\repos\EmmanuelMartins21\BibliotecaCsharp\Biblioteca\obj\Debug\net6.0-windows\Biblioteca.csproj.CopyComplete
