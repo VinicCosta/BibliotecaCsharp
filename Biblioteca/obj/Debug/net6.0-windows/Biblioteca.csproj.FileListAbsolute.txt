@@ -4,7 +4,6 @@ C:\Users\Emmanuel Martins\Source\Repos\EmmanuelMartins21\BibliotecaCsharp\Biblio
 C:\Users\Emmanuel Martins\Source\Repos\EmmanuelMartins21\BibliotecaCsharp\Biblioteca\bin\Debug\net6.0-windows\Biblioteca.dll
 C:\Users\Emmanuel Martins\Source\Repos\EmmanuelMartins21\BibliotecaCsharp\Biblioteca\bin\Debug\net6.0-windows\Biblioteca.pdb
 C:\Users\Emmanuel Martins\Source\Repos\EmmanuelMartins21\BibliotecaCsharp\Biblioteca\obj\Debug\net6.0-windows\Biblioteca.csproj.AssemblyReference.cache
-C:\Users\Emmanuel Martins\Source\Repos\EmmanuelMartins21\BibliotecaCsharp\Biblioteca\obj\Debug\net6.0-windows\Biblioteca.Form1.resources
 C:\Users\Emmanuel Martins\Source\Repos\EmmanuelMartins21\BibliotecaCsharp\Biblioteca\obj\Debug\net6.0-windows\Biblioteca.csproj.GenerateResource.cache
 C:\Users\Emmanuel Martins\Source\Repos\EmmanuelMartins21\BibliotecaCsharp\Biblioteca\obj\Debug\net6.0-windows\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Emmanuel Martins\Source\Repos\EmmanuelMartins21\BibliotecaCsharp\Biblioteca\obj\Debug\net6.0-windows\Biblioteca.AssemblyInfoInputs.cache
@@ -22,3 +21,4 @@ C:\Users\Emmanuel Martins\source\repos\EmmanuelMartins21\BibliotecaCsharp\Biblio
 C:\Users\Emmanuel Martins\source\repos\EmmanuelMartins21\BibliotecaCsharp\Biblioteca\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\Emmanuel Martins\source\repos\EmmanuelMartins21\BibliotecaCsharp\Biblioteca\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\Emmanuel Martins\source\repos\EmmanuelMartins21\BibliotecaCsharp\Biblioteca\obj\Debug\net6.0-windows\Biblioteca.csproj.CopyComplete
+C:\Users\Emmanuel Martins\source\repos\EmmanuelMartins21\BibliotecaCsharp\Biblioteca\obj\Debug\net6.0-windows\Biblioteca.LoginForm.resources

@@ -41,7 +41,7 @@ namespace Biblioteca.Services
             if (retorno == DialogResult.Yes)
             {
                 //Chama a tela principal
-                Form1 form = new Form1();
+                LoginForm form = new LoginForm();
                 form.Show();
             }
         }
