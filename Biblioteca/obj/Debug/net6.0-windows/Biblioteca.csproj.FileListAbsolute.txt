@@ -15,3 +15,27 @@ C:\Users\Emmanuel Martins\Source\Repos\EmmanuelMartins21\BibliotecaCsharp\Biblio
 C:\Users\Emmanuel Martins\Source\Repos\EmmanuelMartins21\BibliotecaCsharp\Biblioteca\obj\Debug\net6.0-windows\Biblioteca.pdb
 C:\Users\Emmanuel Martins\Source\Repos\EmmanuelMartins21\BibliotecaCsharp\Biblioteca\obj\Debug\net6.0-windows\Biblioteca.genruntimeconfig.cache
 C:\Users\Emmanuel Martins\Source\Repos\EmmanuelMartins21\BibliotecaCsharp\Biblioteca\obj\Debug\net6.0-windows\ref\Biblioteca.dll
+C:\Workspace\BibliotecaCsharp\Biblioteca\bin\Debug\net6.0-windows\Biblioteca.exe
+C:\Workspace\BibliotecaCsharp\Biblioteca\bin\Debug\net6.0-windows\Biblioteca.deps.json
+C:\Workspace\BibliotecaCsharp\Biblioteca\bin\Debug\net6.0-windows\Biblioteca.runtimeconfig.json
+C:\Workspace\BibliotecaCsharp\Biblioteca\bin\Debug\net6.0-windows\Biblioteca.dll
+C:\Workspace\BibliotecaCsharp\Biblioteca\bin\Debug\net6.0-windows\Biblioteca.pdb
+C:\Workspace\BibliotecaCsharp\Biblioteca\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Workspace\BibliotecaCsharp\Biblioteca\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Workspace\BibliotecaCsharp\Biblioteca\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Workspace\BibliotecaCsharp\Biblioteca\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Workspace\BibliotecaCsharp\Biblioteca\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Workspace\BibliotecaCsharp\Biblioteca\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Workspace\BibliotecaCsharp\Biblioteca\obj\Debug\net6.0-windows\Biblioteca.csproj.AssemblyReference.cache
+C:\Workspace\BibliotecaCsharp\Biblioteca\obj\Debug\net6.0-windows\Biblioteca.Form1.resources
+C:\Workspace\BibliotecaCsharp\Biblioteca\obj\Debug\net6.0-windows\Biblioteca.csproj.GenerateResource.cache
+C:\Workspace\BibliotecaCsharp\Biblioteca\obj\Debug\net6.0-windows\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\BibliotecaCsharp\Biblioteca\obj\Debug\net6.0-windows\Biblioteca.AssemblyInfoInputs.cache
+C:\Workspace\BibliotecaCsharp\Biblioteca\obj\Debug\net6.0-windows\Biblioteca.AssemblyInfo.cs
+C:\Workspace\BibliotecaCsharp\Biblioteca\obj\Debug\net6.0-windows\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Workspace\BibliotecaCsharp\Biblioteca\obj\Debug\net6.0-windows\Biblioteca.csproj.CopyComplete
+C:\Workspace\BibliotecaCsharp\Biblioteca\obj\Debug\net6.0-windows\Biblioteca.dll
+C:\Workspace\BibliotecaCsharp\Biblioteca\obj\Debug\net6.0-windows\refint\Biblioteca.dll
+C:\Workspace\BibliotecaCsharp\Biblioteca\obj\Debug\net6.0-windows\Biblioteca.pdb
+C:\Workspace\BibliotecaCsharp\Biblioteca\obj\Debug\net6.0-windows\Biblioteca.genruntimeconfig.cache
+C:\Workspace\BibliotecaCsharp\Biblioteca\obj\Debug\net6.0-windows\ref\Biblioteca.dll
