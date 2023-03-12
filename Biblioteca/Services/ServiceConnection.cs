@@ -9,7 +9,7 @@ namespace Biblioteca.Services
     public class ServiceConnection
     {
         // String de conexão com o banco de dados
-        public SqlConnection conn = new SqlConnection("Data Source=localhost\\localhost;Initial Catalog=ESTOQUE;Integrated Security=True");
+        public SqlConnection conn = new SqlConnection("Data Source=localhost\\localhost;Initial Catalog=Livraria;Integrated Security=True");
 
         public string GetStringConnection()
         {
