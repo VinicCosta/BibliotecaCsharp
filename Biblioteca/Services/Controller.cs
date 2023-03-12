@@ -3,10 +3,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Media;
+
 
 namespace Biblioteca.Services
 {
-    public class Validations
+    public class Controller
     {
         public bool ValidarEmail(string email)
         {
@@ -20,6 +26,17 @@ namespace Biblioteca.Services
             // Cria a expressao regular de validacao
             string regexCPF = @"^\d{3}\.?\d{3}\.?\d{3}\-?\d{2}$";
             return Regex.IsMatch(cpf, regexCPF, RegexOptions.IgnoreCase);
+        }
+
+        public void Cancelar()
+        {
+            DialogResult retorno = MessageBox.Show("Deseja cancelar a operação?", "Cancelar", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+            if (retorno == DialogResult.Yes)
+            {
+                //Chama a tela principal
+                Form1 form = new Form1();
+                form.Show();
+            }
         }
 
     }
