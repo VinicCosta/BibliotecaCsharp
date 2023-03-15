@@ -4,10 +4,6 @@ using System.Linq;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Media;
 
 
 namespace Biblioteca.Services
@@ -39,9 +35,9 @@ namespace Biblioteca.Services
         {
             DialogResult retorno = MessageBox.Show("Deseja cancelar a operação?", "Cancelar", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
             if (retorno == DialogResult.Yes)
-            {
+            {                
                 //Chama a tela principal
-                LoginForm form = new LoginForm();
+                LoginForm form = new LoginForm();               
                 form.Show();
             }
         }
