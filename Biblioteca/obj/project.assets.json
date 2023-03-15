@@ -459,11 +459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emmanuel Martins\\source\\repos\\EmmanuelMartins21\\BibliotecaCsharp\\Biblioteca\\Biblioteca.csproj",
+      "projectUniqueName": "C:\\Projetos CSharp\\BibliotecaCsharp\\Biblioteca\\Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "C:\\Users\\Emmanuel Martins\\source\\repos\\EmmanuelMartins21\\BibliotecaCsharp\\Biblioteca\\Biblioteca.csproj",
+      "projectPath": "C:\\Projetos CSharp\\BibliotecaCsharp\\Biblioteca\\Biblioteca.csproj",
       "packagesPath": "C:\\Users\\Emmanuel Martins\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emmanuel Martins\\source\\repos\\EmmanuelMartins21\\BibliotecaCsharp\\Biblioteca\\obj\\",
+      "outputPath": "C:\\Projetos CSharp\\BibliotecaCsharp\\Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Emmanuel Martins\\AppData\\Roaming\\NuGet\\NuGet.Config",
