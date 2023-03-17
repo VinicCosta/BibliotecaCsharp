@@ -8,11 +8,10 @@ namespace Biblioteca.Models
 {
     public class Livro
     {
-        public int IdLivro { get; set; }
+        public int IdLivro { get; }
         public string Nome { get; set; }
         public int Paginas { get; set; }
         public int Quantidade { get; set; }
-
         public string Genero { get; set; }
 
         public Livro(int idLivro, string nome, int paginas, int quantidade, string genero)
