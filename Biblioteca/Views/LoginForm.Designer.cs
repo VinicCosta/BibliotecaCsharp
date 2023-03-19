@@ -36,6 +36,8 @@
             this.txtSenha = new System.Windows.Forms.TextBox();
             this.BtnEntrar = new System.Windows.Forms.Button();
             this.btnCancelar = new System.Windows.Forms.Button();
+            this.rBtnCliente = new System.Windows.Forms.RadioButton();
+            this.rBtnFuncionario = new System.Windows.Forms.RadioButton();
             this.SuspendLayout();
             // 
             // lblCabecalho
@@ -90,7 +92,7 @@
             this.BtnEntrar.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.BtnEntrar.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.BtnEntrar.ForeColor = System.Drawing.SystemColors.Control;
-            this.BtnEntrar.Location = new System.Drawing.Point(340, 254);
+            this.BtnEntrar.Location = new System.Drawing.Point(347, 285);
             this.BtnEntrar.Name = "BtnEntrar";
             this.BtnEntrar.Size = new System.Drawing.Size(133, 32);
             this.BtnEntrar.TabIndex = 8;
@@ -103,7 +105,7 @@
             this.btnCancelar.BackColor = System.Drawing.Color.IndianRed;
             this.btnCancelar.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnCancelar.ForeColor = System.Drawing.SystemColors.Control;
-            this.btnCancelar.Location = new System.Drawing.Point(340, 292);
+            this.btnCancelar.Location = new System.Drawing.Point(347, 323);
             this.btnCancelar.Name = "btnCancelar";
             this.btnCancelar.Size = new System.Drawing.Size(133, 32);
             this.btnCancelar.TabIndex = 9;
@@ -111,11 +113,36 @@
             this.btnCancelar.UseVisualStyleBackColor = false;
             this.btnCancelar.Click += new System.EventHandler(this.btnCancelar_Click);
             // 
+            // rBtnCliente
+            // 
+            this.rBtnCliente.AutoSize = true;
+            this.rBtnCliente.Checked = true;
+            this.rBtnCliente.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.rBtnCliente.Location = new System.Drawing.Point(309, 240);
+            this.rBtnCliente.Name = "rBtnCliente";
+            this.rBtnCliente.Size = new System.Drawing.Size(82, 25);
+            this.rBtnCliente.TabIndex = 10;
+            this.rBtnCliente.Text = "Cliente";
+            this.rBtnCliente.UseVisualStyleBackColor = true;
+            // 
+            // rBtnFuncionario
+            // 
+            this.rBtnFuncionario.AutoSize = true;
+            this.rBtnFuncionario.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.rBtnFuncionario.Location = new System.Drawing.Point(419, 240);
+            this.rBtnFuncionario.Name = "rBtnFuncionario";
+            this.rBtnFuncionario.Size = new System.Drawing.Size(119, 25);
+            this.rBtnFuncionario.TabIndex = 11;
+            this.rBtnFuncionario.Text = "Funcionario";
+            this.rBtnFuncionario.UseVisualStyleBackColor = true;
+            // 
             // LoginForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.rBtnFuncionario);
+            this.Controls.Add(this.rBtnCliente);
             this.Controls.Add(this.btnCancelar);
             this.Controls.Add(this.BtnEntrar);
             this.Controls.Add(this.txtSenha);
@@ -141,5 +168,7 @@
         private TextBox txtSenha;
         private Button BtnEntrar;
         private Button btnCancelar;
+        private RadioButton rBtnCliente;
+        private RadioButton rBtnFuncionario;
     }
 }
