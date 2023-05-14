@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mCSFXf+f6sHhM7CG3RZEQ/+E/bwAewOlaIml2uZSY3IhamYUcMZSbiZy3fhQLHWn3bn6uMNp/YN9orQbFixrvA==",
+  "dgSpecHash": "Bc8Kg97N+Zwo1MBjomD1IHTPDksXLSeVL3W96yUOlSNr0y4qFzhF+YK+ZucG1RttGuEHDou1cFPNU335L9ogaw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emmanuel Martins\\source\\repos\\EmmanuelMartins21\\BibliotecaCsharp\\Biblioteca\\Biblioteca.csproj",
+  "projectFilePath": "C:\\Projetos CSharp\\BibliotecaCsharp\\Biblioteca\\Biblioteca.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Emmanuel Martins\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Emmanuel Martins\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
